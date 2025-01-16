@@ -1,8 +1,32 @@
+using AutoMapper;
+using EKART.DTO;
+using EKART.Models;
+using EKART.Repository;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddDbContext<NorthwindContext>(options =>
+
+    options.UseSqlServer(builder.Configuration.GetConnectionString("NorthwindConnection")));
+
+
+//create mapperconfiguration 
+var mapperConfig = new MapperConfiguration(mc =>
+{
+    mc.AddProfile(new MappingProfile());
+});
+
+IMapper mapper = mapperConfig.CreateMapper();
+
+//register the mapping instance to the service container
+builder.Services.AddSingleton(mapper);
+
+
+builder.Services.AddScoped<IProductRepository, ProductService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
