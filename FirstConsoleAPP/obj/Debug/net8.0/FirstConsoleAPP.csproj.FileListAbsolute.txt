@@ -1,0 +1,14 @@
+D:\OnlineTraining\ASP.NET Core MVC_Jan25\FirstConsoleAPP\bin\Debug\net8.0\FirstConsoleAPP.exe
+D:\OnlineTraining\ASP.NET Core MVC_Jan25\FirstConsoleAPP\bin\Debug\net8.0\FirstConsoleAPP.deps.json
+D:\OnlineTraining\ASP.NET Core MVC_Jan25\FirstConsoleAPP\bin\Debug\net8.0\FirstConsoleAPP.runtimeconfig.json
+D:\OnlineTraining\ASP.NET Core MVC_Jan25\FirstConsoleAPP\bin\Debug\net8.0\FirstConsoleAPP.dll
+D:\OnlineTraining\ASP.NET Core MVC_Jan25\FirstConsoleAPP\bin\Debug\net8.0\FirstConsoleAPP.pdb
+D:\OnlineTraining\ASP.NET Core MVC_Jan25\FirstConsoleAPP\obj\Debug\net8.0\FirstConsoleAPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\OnlineTraining\ASP.NET Core MVC_Jan25\FirstConsoleAPP\obj\Debug\net8.0\FirstConsoleAPP.AssemblyInfoInputs.cache
+D:\OnlineTraining\ASP.NET Core MVC_Jan25\FirstConsoleAPP\obj\Debug\net8.0\FirstConsoleAPP.AssemblyInfo.cs
+D:\OnlineTraining\ASP.NET Core MVC_Jan25\FirstConsoleAPP\obj\Debug\net8.0\FirstConsoleAPP.csproj.CoreCompileInputs.cache
+D:\OnlineTraining\ASP.NET Core MVC_Jan25\FirstConsoleAPP\obj\Debug\net8.0\FirstConsoleAPP.dll
+D:\OnlineTraining\ASP.NET Core MVC_Jan25\FirstConsoleAPP\obj\Debug\net8.0\refint\FirstConsoleAPP.dll
+D:\OnlineTraining\ASP.NET Core MVC_Jan25\FirstConsoleAPP\obj\Debug\net8.0\FirstConsoleAPP.pdb
+D:\OnlineTraining\ASP.NET Core MVC_Jan25\FirstConsoleAPP\obj\Debug\net8.0\FirstConsoleAPP.genruntimeconfig.cache
+D:\OnlineTraining\ASP.NET Core MVC_Jan25\FirstConsoleAPP\obj\Debug\net8.0\ref\FirstConsoleAPP.dll

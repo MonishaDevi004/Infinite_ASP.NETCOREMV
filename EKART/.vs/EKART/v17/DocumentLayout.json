@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|d:\\onlinetraining\\asp.net core mvc_jan25\\ekart\\ekart\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|solutionrelative:ekart\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|d:\\onlinetraining\\asp.net core mvc_jan25\\ekart\\ekart\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|solutionrelative:ekart\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|d:\\onlinetraining\\asp.net core mvc_jan25\\ekart\\ekart\\views\\demo\\displayview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|solutionrelative:ekart\\views\\demo\\displayview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|d:\\onlinetraining\\asp.net core mvc_jan25\\ekart\\ekart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|solutionrelative:ekart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|d:\\onlinetraining\\asp.net core mvc_jan25\\ekart\\ekart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|solutionrelative:ekart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|d:\\onlinetraining\\asp.net core mvc_jan25\\ekart\\ekart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|solutionrelative:ekart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EKART\\Models\\Student.cs",
+              "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Models\\Student.cs",
+              "RelativeToolTip": "EKART\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:00:18.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayView.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Views\\Demo\\DisplayView.cshtml",
+              "RelativeDocumentMoniker": "EKART\\Views\\Demo\\DisplayView.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Views\\Demo\\DisplayView.cshtml",
+              "RelativeToolTip": "EKART\\Views\\Demo\\DisplayView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T06:56:44.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "EKART\\Controllers\\DemoController.cs",
+              "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "EKART\\Controllers\\DemoController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:48:27.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EKART\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EKART\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:47:30.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\appsettings.json",
+              "RelativeDocumentMoniker": "EKART\\appsettings.json",
+              "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\appsettings.json",
+              "RelativeToolTip": "EKART\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T05:44:58.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Program.cs",
+              "RelativeDocumentMoniker": "EKART\\Program.cs",
+              "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Program.cs",
+              "RelativeToolTip": "EKART\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:44:46.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
