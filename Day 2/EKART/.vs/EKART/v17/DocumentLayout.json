@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|solutionrelative:ekart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|d:\\onlinetraining\\asp.net core mvc_jan25\\day 2\\ekart\\ekart\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|solutionrelative:ekart\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|d:\\onlinetraining\\asp.net core mvc_jan25\\day 2\\ekart\\ekart\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|solutionrelative:ekart\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|d:\\onlinetraining\\asp.net core mvc_jan25\\day 2\\ekart\\ekart\\ekart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|solutionrelative:ekart\\ekart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|d:\\onlinetraining\\asp.net core mvc_jan25\\day 2\\ekart\\ekart\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|solutionrelative:ekart\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|d:\\onlinetraining\\asp.net core mvc_jan25\\day 2\\ekart\\ekart\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -110,21 +110,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ValidUnitPriceAttribute.cs",
-              "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\Day 2\\EKART\\EKART\\CustomValidation\\ValidUnitPriceAttribute.cs",
-              "RelativeDocumentMoniker": "EKART\\CustomValidation\\ValidUnitPriceAttribute.cs",
-              "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\Day 2\\EKART\\EKART\\CustomValidation\\ValidUnitPriceAttribute.cs",
-              "RelativeToolTip": "EKART\\CustomValidation\\ValidUnitPriceAttribute.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T06:49:50.995Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -133,7 +120,7 @@
               "RelativeDocumentMoniker": "EKART\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\Day 2\\EKART\\EKART\\Controllers\\ProductController.cs",
               "RelativeToolTip": "EKART\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAQwDoAAAAIAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAkAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T10:18:16.604Z",
               "EditorCaption": ""
@@ -148,12 +135,11 @@
               "RelativeToolTip": "EKART\\DTO\\SupplierDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T04:56:16.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T04:56:16.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\Day 2\\EKART\\EKART\\DTO\\ProductDTO.cs",
               "RelativeDocumentMoniker": "EKART\\DTO\\ProductDTO.cs",
@@ -161,8 +147,7 @@
               "RelativeToolTip": "EKART\\DTO\\ProductDTO.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAAABkAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T09:45:35.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T09:45:35.21Z"
             },
             {
               "$type": "Document",
@@ -174,8 +159,7 @@
               "RelativeToolTip": "EKART\\Controllers\\HomeController.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAABoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:47:30.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T06:47:30.458Z"
             },
             {
               "$type": "Document",
@@ -185,14 +169,39 @@
               "RelativeDocumentMoniker": "EKART\\Program.cs",
               "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\Day 2\\EKART\\EKART\\Program.cs",
               "RelativeToolTip": "EKART\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T05:44:46.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\Day 2\\EKART\\EKART\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "EKART\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\Day 2\\EKART\\EKART\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "EKART\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T04:34:41.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ValidUnitPriceAttribute.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\Day 2\\EKART\\EKART\\CustomValidation\\ValidUnitPriceAttribute.cs",
+              "RelativeDocumentMoniker": "EKART\\CustomValidation\\ValidUnitPriceAttribute.cs",
+              "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\Day 2\\EKART\\EKART\\CustomValidation\\ValidUnitPriceAttribute.cs",
+              "RelativeToolTip": "EKART\\CustomValidation\\ValidUnitPriceAttribute.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T06:49:50.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EKART.csproj",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\Day 2\\EKART\\EKART\\EKART.csproj",
               "RelativeDocumentMoniker": "EKART\\EKART.csproj",
@@ -200,21 +209,7 @@
               "RelativeToolTip": "EKART\\EKART.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-16T10:45:04.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\Day 2\\EKART\\EKART\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "EKART\\Views\\Product\\Create.cshtml",
-              "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\Day 2\\EKART\\EKART\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "EKART\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T04:34:41.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T10:45:04.211Z"
             },
             {
               "$type": "Document",
@@ -226,8 +221,7 @@
               "RelativeToolTip": "EKART\\Repository\\ProductService.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAAADYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:10:07.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T10:10:07.681Z"
             },
             {
               "$type": "Document",
@@ -239,8 +233,7 @@
               "RelativeToolTip": "EKART\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T05:52:18.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T05:52:18.505Z"
             },
             {
               "$type": "Document",
@@ -252,8 +245,7 @@
               "RelativeToolTip": "EKART\\Repository\\IProductRepository.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:08:29.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T10:08:29.074Z"
             },
             {
               "$type": "Document",
@@ -265,8 +257,7 @@
               "RelativeToolTip": "EKART\\DTO\\MappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAowA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T09:48:59.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T09:48:59.344Z"
             },
             {
               "$type": "Document",
@@ -278,8 +269,7 @@
               "RelativeToolTip": "EKART\\DTO\\CategoryDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T04:56:28.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T04:56:28.917Z"
             },
             {
               "$type": "Document",
@@ -291,8 +281,7 @@
               "RelativeToolTip": "EKART\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T04:57:21.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T04:57:21.23Z"
             },
             {
               "$type": "Document",
@@ -304,8 +293,7 @@
               "RelativeToolTip": "EKART\\Models\\Supplier.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T04:56:49.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T04:56:49.613Z"
             },
             {
               "$type": "Document",

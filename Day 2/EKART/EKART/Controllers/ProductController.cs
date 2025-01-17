@@ -15,6 +15,7 @@ namespace EKART.Controllers
         }
 
         #region DisplayProducts
+        [Route("ViewProducts")]
         public async Task<IActionResult> DisplayProducts()
         {
             List<ProductDTO> products = await productRepository.GetProducts();
@@ -36,7 +37,8 @@ namespace EKART.Controllers
         #endregion
 
         #region GetProduct
-        public async Task<IActionResult> GetProduct(int id)
+        [Route("GetParticularProduct/{id:int}")]
+        public async Task<IActionResult> GetProduct([FromQuery]int id)
         {
             ProductDTO product = await productRepository.GetProductById(id);
             return View(product);
@@ -93,8 +95,11 @@ namespace EKART.Controllers
 
 
         }
-
-
+        [Route("constraint/{name:maxlength(10)}")]
+        public IActionResult RoutingDemo(string name)
+        {
+            return View();
+        }
 
         #endregion
     }
