@@ -1,0 +1,102 @@
+.Net Environment
+
+1..Net Framework
+2. .Net Core
+
+Why .Net Core?
+
+1.cross platform
+2.Opensource
+3.Scalable
+4.lightweight
+5.Dependency Injection
+6.cloud ready support
+7.Microservice
+
+Kestrel -- service
+CLI based 
+
+CLS - CTS
+
+int integer
+   
+   int32
+
+
+ASP.NET            ASP.NET CORE
+
+
+ASP.NET -- >ASP.NET MVC -->ASP.NET WEB API
+
+WebForms- aspx-html ,cs
+
+
+ASP.NET Core -- >ASP.NET Core MVC -->ASP.NET Core WEB API
+Razor Pages - HTML+CS
+
+ASP.NET Core MVC
+----------------
+--seperation of concern 
+
+
+
+Model  view  controller
+
+Middleware: 
+
+ADO.NET --> connect to database
+
+What EntityFrame Core?(ORM)
+-Opensource
+-crossplatform
+
+Why?
+-Objects
+-Linq
+-DataModel
+-Dbcontext and Dbset
+-Migrations
+
+Types of Approach:
+1.Dbfirst
+2.Codefirst
+
+scaffold-dbcontext -provider Microsoft.EntityFrameworkCore.SqlServer -connection "Data Source=DESKTOP-U8J1M3C\\MSSQLSERVER01;Initial Catalog=Northwind;Trusted_Connection=True;TrustServerCertificate=true;"  -OutputDir Models
+
+
+scaffold-dbcontext -provider Microsoft.EntityFrameworkCore.SqlServer -connection "Data Source=servername;Initial Catalog=databasename;Trusted_Connection=True;TrustServerCertificate=true;"  -OutputDir Models
+
+"Server=DESKTOP-U8J1M3C\\MSSQLSERVER01;Database=Northwind;Trusted_Connection=True;TrustServerCertificate=true;Encrypt = Optional"
+
+DTO : Data transfer object
+
+Optimize data transfer --> reduce the payload
+Light weight
+aggregate data from multiple entites
+
+
+DI:
+
+1. constructor
+2.Method
+3.Property
+
+DI Service Life Time
+
+1.Singleton - only one object is created for the entire application 
+2.Scoped - create one object per http request
+3.Tansient- new instance is created for each request
+
+
+
+
+
+
+
+
+
+
+
+
+
+

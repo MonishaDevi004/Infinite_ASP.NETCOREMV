@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|d:\\onlinetraining\\asp.net core mvc_jan25\\ekart\\ekart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|solutionrelative:ekart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|d:\\onlinetraining\\asp.net core mvc_jan25\\ekart\\ekart\\ekart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|solutionrelative:ekart\\ekart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|d:\\onlinetraining\\asp.net core mvc_jan25\\ekart\\ekart\\views\\demo\\displayview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|solutionrelative:ekart\\views\\demo\\displayview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|d:\\onlinetraining\\asp.net core mvc_jan25\\ekart\\ekart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03278D0B-A0BD-44CC-90CC-5E26049E6A3C}|EKART\\EKART.csproj|solutionrelative:ekart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,12 +82,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EKART",
+              "DocumentIndex": 1,
+              "Title": "EKART.csproj",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\EKART.csproj",
               "RelativeDocumentMoniker": "EKART\\EKART.csproj",
               "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\EKART.csproj",
@@ -100,19 +100,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GetProduct.cshtml",
-              "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Views\\Product\\GetProduct.cshtml",
-              "RelativeDocumentMoniker": "EKART\\Views\\Product\\GetProduct.cshtml",
-              "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Views\\Product\\GetProduct.cshtml",
-              "RelativeToolTip": "EKART\\Views\\Product\\GetProduct.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T10:39:46.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ProductService.cs",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Repository\\ProductService.cs",
               "RelativeDocumentMoniker": "EKART\\Repository\\ProductService.cs",
@@ -120,12 +107,11 @@
               "RelativeToolTip": "EKART\\Repository\\ProductService.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:10:07.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T10:10:07.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Repository\\IProductRepository.cs",
               "RelativeDocumentMoniker": "EKART\\Repository\\IProductRepository.cs",
@@ -133,12 +119,11 @@
               "RelativeToolTip": "EKART\\Repository\\IProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:08:29.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T10:08:29.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CustomerDTO.cs",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\DTO\\CustomerDTO.cs",
               "RelativeDocumentMoniker": "EKART\\DTO\\CustomerDTO.cs",
@@ -146,12 +131,11 @@
               "RelativeToolTip": "EKART\\DTO\\CustomerDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T09:54:37.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T09:54:37.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Program.cs",
               "RelativeDocumentMoniker": "EKART\\Program.cs",
@@ -159,12 +143,36 @@
               "RelativeToolTip": "EKART\\Program.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:44:46.709Z",
+              "WhenOpened": "2025-01-16T05:44:46.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EKART\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EKART\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:47:30.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "GetProduct.cshtml",
+              "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Views\\Product\\GetProduct.cshtml",
+              "RelativeDocumentMoniker": "EKART\\Views\\Product\\GetProduct.cshtml",
+              "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Views\\Product\\GetProduct.cshtml",
+              "RelativeToolTip": "EKART\\Views\\Product\\GetProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:39:46.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "EKART\\Controllers\\ProductController.cs",
@@ -172,12 +180,11 @@
               "RelativeToolTip": "EKART\\Controllers\\ProductController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAABwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:18:16.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T10:18:16.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\DTO\\ProductDTO.cs",
               "RelativeDocumentMoniker": "EKART\\DTO\\ProductDTO.cs",
@@ -185,12 +192,11 @@
               "RelativeToolTip": "EKART\\DTO\\ProductDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T09:45:35.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T09:45:35.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DisplayProducts.cshtml",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Views\\Product\\DisplayProducts.cshtml",
               "RelativeDocumentMoniker": "EKART\\Views\\Product\\DisplayProducts.cshtml",
@@ -198,12 +204,11 @@
               "RelativeToolTip": "EKART\\Views\\Product\\DisplayProducts.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAowBUAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T10:22:12.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T10:22:12.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Models\\Product.cs",
               "RelativeDocumentMoniker": "EKART\\Models\\Product.cs",
@@ -211,12 +216,11 @@
               "RelativeToolTip": "EKART\\Models\\Product.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAABkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T09:45:40.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T09:45:40.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "EKART\\Models\\Customer.cs",
@@ -224,12 +228,11 @@
               "RelativeToolTip": "EKART\\Models\\Customer.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAAAB0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T09:54:39.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T09:54:39.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\DTO\\MappingProfile.cs",
               "RelativeDocumentMoniker": "EKART\\DTO\\MappingProfile.cs",
@@ -237,12 +240,11 @@
               "RelativeToolTip": "EKART\\DTO\\MappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAowAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T09:48:59.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T09:48:59.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "NorthwindContext.cs",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Models\\NorthwindContext.cs",
               "RelativeDocumentMoniker": "EKART\\Models\\NorthwindContext.cs",
@@ -250,12 +252,11 @@
               "RelativeToolTip": "EKART\\Models\\NorthwindContext.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAUwG0CAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T09:29:06.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T09:29:06.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "DemoController.cs",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Controllers\\DemoController.cs",
               "RelativeDocumentMoniker": "EKART\\Controllers\\DemoController.cs",
@@ -263,25 +264,11 @@
               "RelativeToolTip": "EKART\\Controllers\\DemoController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:48:27.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T06:48:27.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "EKART\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "EKART\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAIBQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:47:30.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\appsettings.json",
               "RelativeDocumentMoniker": "EKART\\appsettings.json",
@@ -289,12 +276,11 @@
               "RelativeToolTip": "EKART\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-16T05:44:58.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T05:44:58.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "DisplayView.cshtml",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Views\\Demo\\DisplayView.cshtml",
               "RelativeDocumentMoniker": "EKART\\Views\\Demo\\DisplayView.cshtml",
@@ -302,12 +288,11 @@
               "RelativeToolTip": "EKART\\Views\\Demo\\DisplayView.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T06:56:44.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T06:56:44.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\EKART\\EKART\\Models\\Student.cs",
               "RelativeDocumentMoniker": "EKART\\Models\\Student.cs",
@@ -315,8 +300,7 @@
               "RelativeToolTip": "EKART\\Models\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T07:00:18.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T07:00:18.828Z"
             }
           ]
         }

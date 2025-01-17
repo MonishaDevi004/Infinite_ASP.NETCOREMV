@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EKART")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7b08e01a337d33c1ab6a79b1aa626a0d7e4755b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e27d0fc534edb188eeeea7db1e2707ef793c35b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("EKART")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EKART")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
