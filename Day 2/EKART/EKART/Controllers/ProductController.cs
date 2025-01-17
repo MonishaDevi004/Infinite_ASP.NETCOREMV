@@ -38,7 +38,7 @@ namespace EKART.Controllers
 
         #region GetProduct
         [Route("GetParticularProduct/{id:int}")]
-        public async Task<IActionResult> GetProduct([FromQuery]int id)
+        public async Task<IActionResult> GetProduct([FromQuery] int id)
         {
             ProductDTO product = await productRepository.GetProductById(id);
             return View(product);
@@ -71,9 +71,9 @@ namespace EKART.Controllers
                 {
                     ModelState.AddModelError("ProductName", "Product Name cannot be SAMPLE or DUMMY!!");
                 }
-                if(productDTO.QuantityPerUnit == null)
+                if (productDTO.QuantityPerUnit == null)
                 {
-                    ModelState.AddModelError("QuantityPerUnit","QuantityPerUnit value should be greater than 0");
+                    ModelState.AddModelError("QuantityPerUnit", "QuantityPerUnit value should be greater than 0");
                 }
                 if (!ModelState.IsValid)
                 {
@@ -102,5 +102,23 @@ namespace EKART.Controllers
         }
 
         #endregion
+
+
+        #region CallingProcedure
+
+        public async Task<IActionResult> TenProduct()
+        {
+            var productItem = await productRepository.TenProductProcedure();
+            return View(productItem);
+        }
+
+        #endregion
+
+        [Route("GetCustomerOrder/{CID:alpha:length(5)}")]
+        public async Task<IActionResult> GetCustomerOrder(string CID)
+        {
+          var CustomerOrder =  await productRepository.GetCustOrder(CID);
+            return View(CustomerOrder);
+        }
     }
 }

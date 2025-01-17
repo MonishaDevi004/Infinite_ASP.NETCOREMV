@@ -46,8 +46,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEaXNwbGF5UHJvZHVjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/OnlineTraining/ASP.NET Core MVC_Jan25/Day 2/EKART/EKART/Views/Product/GetCustomerOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRDdXN0b21lck9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/OnlineTraining/ASP.NET Core MVC_Jan25/Day 2/EKART/EKART/Views/Product/GetProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OnlineTraining/ASP.NET Core MVC_Jan25/Day 2/EKART/EKART/Views/Product/TenProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxUZW5Qcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/OnlineTraining/ASP.NET Core MVC_Jan25/Day 2/EKART/EKART/Views/Shared/Error.cshtml]

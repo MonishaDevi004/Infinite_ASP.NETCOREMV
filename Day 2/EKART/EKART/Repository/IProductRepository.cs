@@ -1,4 +1,5 @@
 ﻿using EKART.DTO;
+using EKART.Models;
 
 namespace EKART.Repository
 {
@@ -11,5 +12,9 @@ namespace EKART.Repository
 
         Task<IEnumerable<SupplierDTO>> GetSuppliers();
         Task<IEnumerable<CategoryDTO>> GetCategories();
+
+        Task<List<Ten_Most_Expensive_Products>> TenProductProcedure();
+
+        Task<List<CustOrdersOrders>> GetCustOrder(string customerid);
     }
 }

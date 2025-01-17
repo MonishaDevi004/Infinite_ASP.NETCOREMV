@@ -2,6 +2,7 @@
 using EKART.DTO;
 using EKART.Models;
 using Microsoft.AspNetCore.Razor.TagHelpers;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 
 namespace EKART.Repository
@@ -53,9 +54,9 @@ namespace EKART.Repository
                 SupplierId = s.SupplierId,
                 CompanyName = s.CompanyName,
                 ContactName = s.ContactName,
-                City= s.City,
-                ContactTitle= s.ContactTitle,
-                Address =s.Address,
+                City = s.City,
+                ContactTitle = s.ContactTitle,
+                Address = s.Address,
 
             }).ToListAsync();
 
@@ -71,8 +72,23 @@ namespace EKART.Repository
                 CategoryName = c.CategoryName,
                 Description = c.Description,
             }).ToListAsync();
-            
+
             return mapper.Map<List<CategoryDTO>>(categories);
         }
+
+        public async Task<List<Ten_Most_Expensive_Products>> TenProductProcedure()
+        {
+            return await context.Ten_Most_Expensive_Products.FromSqlRaw("[dbo].[Ten Most Expensive Products]").ToListAsync();
+        }
+
+
+        public async Task<List<CustOrdersOrders>> GetCustOrder(string customerid)
+        {
+            SqlParameter CustomerName = new SqlParameter("@CustomerID", customerid);
+            return await context.CustOrdersOrders.FromSqlRaw("[dbo].[CustOrdersOrders] @CustomerID", CustomerName).ToListAsync();
     }
+
+    }
+
+
 }

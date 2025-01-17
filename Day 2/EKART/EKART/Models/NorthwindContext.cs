@@ -70,6 +70,10 @@ public partial class NorthwindContext : DbContext
 
     public virtual DbSet<Test> Tests { get; set; }
 
+    public virtual DbSet<Ten_Most_Expensive_Products> Ten_Most_Expensive_Products { get; set; }
+
+    public virtual DbSet<CustOrdersOrders> CustOrdersOrders { get; set; }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     { }
 //#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
