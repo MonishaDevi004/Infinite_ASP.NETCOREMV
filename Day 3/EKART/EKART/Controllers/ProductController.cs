@@ -18,7 +18,7 @@ namespace EKART.Controllers
 
         #region DisplayProducts
 
-        [AllowAnonymous]
+        [Authorize]
         [LogActionFilter]
         [ServiceFilter(typeof(CustomExceptionFilter))]
       //  [Route("ViewProducts")]
@@ -44,7 +44,8 @@ namespace EKART.Controllers
         #endregion
 
         #region GetProduct
-        [Authorize(Roles = "customer")]
+        //[Authorize(Roles = "customer")]
+        [Authorize]
         [Route("GetParticularProduct/{id:int}")]
         public async Task<IActionResult> GetProduct([FromQuery] int id)
         {

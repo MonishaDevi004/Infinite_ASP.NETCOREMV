@@ -29,6 +29,7 @@ namespace EKART.Repository
 
 
         public async Task<CustomerDTO> Login(string username, string password)
+        
         {
             try
             {
@@ -41,13 +42,17 @@ namespace EKART.Repository
          RoleName = c.Role.RoleName  // Assuming Role has a RoleName property
      })
      .FirstOrDefaultAsync();
-                if (customer == null)
-                {
-                    return null;
-                }
+                //if (customer == null)
+                //{
+                //    return null;
+                //}
 
                 // Map the complete customer details using AutoMapper
-                var customerDTO = mapper.Map<CustomerDTO>(customer);
+                var customerDTO = new CustomerDTO
+                {
+                    CustomerId = customer.CustomerId,
+                    RoleName = customer.RoleName
+                };
 
                
 

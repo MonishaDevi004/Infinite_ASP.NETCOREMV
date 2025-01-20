@@ -26,8 +26,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\OnlineTraining\ASP.NET Core MVC_Jan25\Day 3\EKART\EKART
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/OnlineTraining/ASP.NET Core MVC_Jan25/Day 3/EKART/EKART/Views/Auth/CustomerLogin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxDdXN0b21lckxvZ2luLmNzaHRtbA==
+[D:/OnlineTraining/ASP.NET Core MVC_Jan25/Day 3/EKART/EKART/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/OnlineTraining/ASP.NET Core MVC_Jan25/Day 3/EKART/EKART/Views/Auth/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/OnlineTraining/ASP.NET Core MVC_Jan25/Day 3/EKART/EKART/Views/Demo/DisplayView.cshtml]
