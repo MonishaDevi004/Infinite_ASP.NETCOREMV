@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "kc8hAOR0n3L8D0j4Rr2wxE8g+jcbta8mPGBGPaBVSL0CAua5ivoP6jxrQOCJu8s7bz+eJrUCEIKNB0223DmOSg==",
+  "success": true,
+  "projectFilePath": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\AuthorizeFilterDemo\\AuthorizeFilterDemo\\AuthorizeFilterDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MonishaDevi\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\8.0.4\\microsoft.aspnetcore.authentication.negotiate.8.0.4.nupkg.sha512",
+    "C:\\Users\\MonishaDevi\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.4\\microsoft.aspnetcore.connections.abstractions.8.0.4.nupkg.sha512",
+    "C:\\Users\\MonishaDevi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MonishaDevi\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\MonishaDevi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MonishaDevi\\.nuget\\packages\\microsoft.extensions.features\\8.0.4\\microsoft.extensions.features.8.0.4.nupkg.sha512",
+    "C:\\Users\\MonishaDevi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MonishaDevi\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\MonishaDevi\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\MonishaDevi\\.nuget\\packages\\system.directoryservices.protocols\\8.0.0\\system.directoryservices.protocols.8.0.0.nupkg.sha512",
+    "C:\\Users\\MonishaDevi\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

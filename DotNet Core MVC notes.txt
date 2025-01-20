@@ -63,10 +63,15 @@ Types of Approach:
 
 scaffold-dbcontext -provider Microsoft.EntityFrameworkCore.SqlServer -connection "Data Source=DESKTOP-U8J1M3C\\MSSQLSERVER01;Initial Catalog=Northwind;Trusted_Connection=True;TrustServerCertificate=true;"  -OutputDir Models
 
+To apply the changes
+
+
+scaffold-dbcontext -provider Microsoft.EntityFrameworkCore.SqlServer -connection "Data Source=DESKTOP-U8J1M3C\\MSSQLSERVER01;Initial Catalog=Northwind;Trusted_Connection=True;TrustServerCertificate=true;"  -OutputDir Models --Force
+
 
 scaffold-dbcontext -provider Microsoft.EntityFrameworkCore.SqlServer -connection "Data Source=servername;Initial Catalog=databasename;Trusted_Connection=True;TrustServerCertificate=true;"  -OutputDir Models
 
-"Server=DESKTOP-U8J1M3C\\MSSQLSERVER01;Database=Northwind;Trusted_Connection=True;TrustServerCertificate=true;Encrypt = Optional"
+"Server=Servername;Database=Northwind;Trusted_Connection=True;TrustServerCertificate=true;Encrypt = Optional"
 
 DTO : Data transfer object
 
@@ -88,6 +93,57 @@ DI Service Life Time
 3.Tansient- new instance is created for each request
 
 
+
+Different ways to pass the data from view to controller
+
+1.Formcollection
+2.Query string
+3.Parameters
+4.Object'
+
+transfer the data from controller to view
+
+1.ViewBag - dynamic propety 
+2.ViewData - dictionary 
+
+transfer the data controller to controller
+
+1.TempData
+
+Types of validation
+
+1.Model Validation
+2.Controller
+3.Remote Validation
+4.Custom validation
+
+
+Routing :
+
+1. Conventional Routing
+2. Attributed based Routing
+
+
+
+Task : 17/1
+Get product by unit price
+View Order by date 
+Display the number products under each category
+Get the product by Category
+View the bill for Particular OrderId
+Display the orderdetails for the particular orderid
+list the discontinued products
+display the productname,categoryname and suppliername
+
+
+Filters:
+---------
+--Allow us to run the code in various stages of request processing pipeline
+
+1.Authorization
+2.Action Filter
+3.Result Filter
+4.Exception filter
 
 
 

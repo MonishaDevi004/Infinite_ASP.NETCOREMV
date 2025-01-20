@@ -69,6 +69,9 @@ public partial class NorthwindContext : DbContext
     public virtual DbSet<Territory> Territories { get; set; }
 
     public virtual DbSet<Test> Tests { get; set; }
+    
+    public virtual DbSet<Role> Roles { get; set; }
+
 
     public virtual DbSet<Ten_Most_Expensive_Products> Ten_Most_Expensive_Products { get; set; }
 
@@ -499,6 +502,18 @@ public partial class NorthwindContext : DbContext
                 .HasMaxLength(10)
                 .IsFixedLength();
         });
+
+modelBuilder.Entity<Role>(entity =>
+{
+    entity
+        .HasNoKey()
+        .ToTable("Role");
+
+    entity.Property(e => e.Id).HasColumnName("id");
+    entity.Property(e => e.RoleName)
+        .HasMaxLength(30)
+        .IsUnicode(false);
+});
 
         modelBuilder.Entity<SalesByCategory>(entity =>
         {

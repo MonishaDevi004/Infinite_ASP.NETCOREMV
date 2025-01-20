@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\AuthorizeFilterDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8613781-5C9E-47C2-888F-A3C6CC0CE46A}|AuthorizeFilterDemo\\AuthorizeFilterDemo.csproj|d:\\onlinetraining\\asp.net core mvc_jan25\\authorizefilterdemo\\authorizefilterdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8613781-5C9E-47C2-888F-A3C6CC0CE46A}|AuthorizeFilterDemo\\AuthorizeFilterDemo.csproj|solutionrelative:authorizefilterdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\AuthorizeFilterDemo\\AuthorizeFilterDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AuthorizeFilterDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\OnlineTraining\\ASP.NET Core MVC_Jan25\\AuthorizeFilterDemo\\AuthorizeFilterDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AuthorizeFilterDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:35:31.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
